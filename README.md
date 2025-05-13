@@ -17,6 +17,7 @@ An advanced employee payroll management system with facial recognition attendanc
 
 ## Requirements
 
+- SQLyog
 - Java JDK 8 or higher
 - MySQL 5.0 or higher
 - OpenCV 4.5.4 or higher
